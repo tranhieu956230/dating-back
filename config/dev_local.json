@@ -1,0 +1,12 @@
+{
+    "PORT": "3001",
+    "DB_INFO": {
+        "host": "127.0.0.1",
+        "port": "27017",
+        "db": "dating",
+        "user": "hieu",
+        "pwd": "Hieu956230",
+        "authSource": "admin"
+    },
+    "SECRET_KEY": "asldkfjalsdkfjalsdkf"
+}
